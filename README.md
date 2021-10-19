@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeff-godwin
-- 👀 My area of interest is in cancer biology and gene regulation. Currently I work in functional genomics and genome assembly.
+- 👀 My area of interest is in gene regulation mechanisms. Currently I work in functional genomics and genome assembly.
 - 🌱 I’m currently learning R programming
 
 
